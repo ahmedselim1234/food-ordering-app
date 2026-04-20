@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"D:\\\\\\\\portofolio-projects\\\\\\\\food-app\")",
+      "Read(//d/d/portofolio-projects/**)",
+      "Bash(npm create *)",
+      "Bash(npx create-vite@latest . --template react-ts)",
+      "Bash(npx --yes create-vite@latest . --template react-ts)",
+      "Bash(npx create-vite@latest --help)",
+      "Bash(npx create-vite@latest . --template react-ts --no-interactive)",
+      "Read(//d/tmp/**)",
+      "Bash(npx create-vite@latest food-app-scaffold --template react-ts --no-interactive)",
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(npx shadcn@latest add button card badge sheet dialog tabs input label toast separator avatar dropdown-menu --yes)",
+      "Bash(npx shadcn@latest add select scroll-area skeleton --yes)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Bash(cp -r \"D:/portofolio-projects/food-app/@/components/ui\" \"D:/portofolio-projects/food-app/src/components/ui\")",
+      "Bash(cp -r \"D:/portofolio-projects/food-app/@/hooks/.\" \"D:/portofolio-projects/food-app/src/hooks/\")"
+    ]
+  }
+}
