@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { Skeleton } from '@/components/ui/skeleton'
 import FoodCard from './FoodCard'
-import type { FoodItem, CartItem } from '@/types'
+import type { FoodItem } from '@/types'
 
 interface Props {
   items: FoodItem[]

@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { Star, Plus, Clock, Flame } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
-import { Button } from '@/components/ui/button'
 import type { FoodItem } from '@/types'
 import { formatPrice } from '@/utils/formatPrice'
 
